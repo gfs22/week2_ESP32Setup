@@ -1,6 +1,3 @@
-# week2_SpeechRecognition-ESP32Setup
-
-Speech Recognition in files uploaded in Repositry Work Only in Chrome Browser .
 
 wisdom ESP32 Setup Algorithim in Arduino :
 
@@ -12,7 +9,7 @@ wisdom ESP32 Setup Algorithim in Arduino :
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
-4-in Arduino, Select ( Tools ) Then Board then  Boards Manager 
+4-in Arduino, Select Tools Then Board then  Boards Manager 
 
 5-in Board Manager Search For ( ESP32 ) and click install in ( ESP32 by Espressif Systems )
 
